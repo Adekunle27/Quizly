@@ -5,4 +5,4 @@ This is a quiz application built with React and TailwindCSS. You can select the 
 ## Links
 
 - [Code on GitHub](https://github.com/Adekunle27/Quizly/)
-- [Live Site](https://quizwhiz.netlify.app)
+- [Live Site](https://quizly-psi.vercel.app/)
